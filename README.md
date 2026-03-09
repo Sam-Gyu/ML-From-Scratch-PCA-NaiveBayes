@@ -30,7 +30,7 @@ This project benchmarks the performance of **Gaussian** and **Categorical Naive 
 | :--- | :---: | :---: |
 | **Baseline (All Features)** | **96.49%** | **95.08%** |
 | **Feature Selection** | 92.10% | 88.00% |
-| **PCA (From Scratch)** | 94.73% | 87.75%* |
+| **PCA** | 94.73% | 87.75%* |
 
 
 ---
