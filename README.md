@@ -32,9 +32,6 @@ This project benchmarks the performance of **Gaussian** and **Categorical Naive 
 | **Feature Selection** | 92.10% | 88.00% |
 | **PCA (From Scratch)** | 94.73% | 87.75%* |
 
-*\*Note: PCA on categorical data required rounding to discrete values, introducing noise and expected accuracy drops.*
-
-
 
 ---
 
